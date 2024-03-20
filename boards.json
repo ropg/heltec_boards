@@ -12,11 +12,11 @@
         {
           "name": "Heltec (unofficial)",
           "architecture": "esp32",
-          "version": "1.1.2",
+          "version": "1.1.3",
           "category": "ESP32",
-          "url": "https://github.com/ropg/heltec_boards/archive/refs/tags/1.1.2.zip",
-          "archiveFileName": "heltec_boards-1.1.2.zip",
-          "checksum": "SHA-256:e0955fbabb05dcd9d56a5b0c4e765475486a34bf9083d1e26cd984059389d508",
+          "url": "https://github.com/ropg/heltec_boards/archive/refs/tags/1.1.3.zip",
+          "archiveFileName": "heltec_boards-1.1.3.zip",
+          "checksum": "SHA-256:b788037b2357c5593ea1615b07aad35bf8ec5da22571f4dd39711f430acb1622",
           "size": "81323783",
           "help": {
             "online": ""
