@@ -21,7 +21,7 @@ menu.PinNumbers=Pin Numbering
 
 # Custom options
 
-heltec_esp32_lora_v3.name=Heltec ESP32 LoRa v3
+heltec_esp32_lora_v3.name=ESP32 LoRa v3
 heltec_esp32_lora_v3.vid.0=0x10c4
 heltec_esp32_lora_v3.pid.0=0xea60
 
@@ -142,7 +142,7 @@ heltec_esp32_lora_v3.menu.EraseFlash.all.upload.erase_cmd=-e
 
 
 
-heltec_wireless_stick_v3.name=Heltec Wireless Stick v3
+heltec_wireless_stick_v3.name=Wireless Stick v3
 heltec_esp32_lora_v3.vid.0=0x10c4
 heltec_esp32_lora_v3.pid.0=0xea60
 
@@ -263,7 +263,7 @@ heltec_wireless_stick_v3.menu.EraseFlash.all.upload.erase_cmd=-e
 
 
 
-heltec_wireless_stick_lite_v3.name=Heltec Wireless Stick v3
+heltec_wireless_stick_lite_v3.name=Wireless Stick Lite v3
 heltec_esp32_lora_v3.vid.0=0x10c4
 heltec_esp32_lora_v3.pid.0=0xea60
 
