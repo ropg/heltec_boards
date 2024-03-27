@@ -29,8 +29,8 @@ with open(download_path, 'rb') as f:
         sha256_hash.update(byte_block)
 print(f"hash: {sha256_hash.hexdigest()}")
 
-# Assuming boards.json needs to be updated with the file size and hash
-with open('boards.json.editme', 'r') as file:
+# Assuming package_heltec_unofficial_index.json needs to be updated with the file size and hash
+with open('package_heltec_unofficial_index.json.editme', 'r') as file:
     content = file.read()
 
 # Replace placeholders or update the content as needed
