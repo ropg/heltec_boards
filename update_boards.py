@@ -40,9 +40,12 @@ content = content\
     .replace('{hash}', sha256_hash.hexdigest())\
     .replace('{tag}', tag_name)
 
+with open('package_heltec_unofficial_index.json', 'w') as file:
+    file.write(content)
+
 with open('boards.json', 'w') as file:
     file.write(content)
 
 os.system(f"rm {download_path}");
 
-print("boards.json has been updated.")
+print("package_heltec_unofficial_index.json has been updated.")
